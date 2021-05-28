@@ -1,0 +1,12 @@
+D:\VS\tcsLearn5\tcsLearn5\obj\Debug\netcoreapp3.1\tcsLearn5.AssemblyInfoInputs.cache
+D:\VS\tcsLearn5\tcsLearn5\obj\Debug\netcoreapp3.1\tcsLearn5.AssemblyInfo.cs
+D:\VS\tcsLearn5\tcsLearn5\obj\Debug\netcoreapp3.1\tcsLearn5.csproj.CoreCompileInputs.cache
+D:\VS\tcsLearn5\tcsLearn5\bin\Debug\netcoreapp3.1\tcsLearn5.exe
+D:\VS\tcsLearn5\tcsLearn5\bin\Debug\netcoreapp3.1\tcsLearn5.deps.json
+D:\VS\tcsLearn5\tcsLearn5\bin\Debug\netcoreapp3.1\tcsLearn5.runtimeconfig.json
+D:\VS\tcsLearn5\tcsLearn5\bin\Debug\netcoreapp3.1\tcsLearn5.runtimeconfig.dev.json
+D:\VS\tcsLearn5\tcsLearn5\bin\Debug\netcoreapp3.1\tcsLearn5.dll
+D:\VS\tcsLearn5\tcsLearn5\bin\Debug\netcoreapp3.1\tcsLearn5.pdb
+D:\VS\tcsLearn5\tcsLearn5\obj\Debug\netcoreapp3.1\tcsLearn5.dll
+D:\VS\tcsLearn5\tcsLearn5\obj\Debug\netcoreapp3.1\tcsLearn5.pdb
+D:\VS\tcsLearn5\tcsLearn5\obj\Debug\netcoreapp3.1\tcsLearn5.genruntimeconfig.cache
